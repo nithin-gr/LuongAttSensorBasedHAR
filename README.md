@@ -1,4 +1,4 @@
-#Sensor-Based Human Activity Recognition for Elderly In-Patients with a Luong Self-Attention Network
+# Sensor-Based Human Activity Recognition for Elderly In-Patients with a Luong Self-Attention Network
 
 This repository contains code for the paper "Sensor-Based Human Activity Recognition for Elderly In-Patients with a Luong Self-Attention Network", accepted at the IEEE/ACM Conference on Connected Health Applications, Systems and Engineering Technologies (2021), Washington DC (2021).
 
